@@ -1,6 +1,6 @@
 # Disney characters classification using pythorch
 
-   ![alt text](https://github.com/sayeh31/Disney-characters-classification-with-CNN-using-pythorch/blob/main/training%20images.gif)
+   ![alt text](https://github.com/m-alqblawi/Disney-characters-classification/blob/main/training%20images.gif)
 
 
 
@@ -8,10 +8,10 @@ Image classification is one of the most important applications of computer visio
 
 
 
-![alt text](https://github.com/sayeh31/Disney-characters-classification-with-CNN-using-pythorch/blob/main/test1.png)
+![alt text](https://github.com/m-alqblawi/Disney-characters-classification/blob/main/test1.png)
 
 
- ![alt text](https://github.com/sayeh31/Disney-characters-classification-with-CNN-using-pythorch/blob/main/test2.png)
+ ![alt text](https://github.com/m-alqblawi/Disney-characters-classification/blob/main/test2.png)
  
  
 ## Dataset
